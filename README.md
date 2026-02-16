@@ -21,6 +21,17 @@ Amazon Delivery Dataset (Kaggle)
 ## Data Pipeline
 Raw CSV → Python Cleaning & Feature Engineering → PostgreSQL → Power BI Dashboard
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](images/Overview.png)
+
+### Delay Drivers
+![Delay Drivers](images/Delay Drivers.png)
+
+### Operations Performance
+![Operations Performance](images/Operations.png)
+
 ## Key Insights
 - Late delivery rate is 27.89%.
 - Semi-urban areas have the highest late deliveries.
