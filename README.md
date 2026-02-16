@@ -30,7 +30,7 @@ Raw CSV → Python Cleaning & Feature Engineering → PostgreSQL → Power BI Da
 ![Delay Drivers](images/delay_drivers_analysis.png)
 
 ### Operations Performance
-![Operations Performance](images/Operations Performance.png)
+![Operations Performance](images/operations_performance.png)
 
 ## Key Insights
 - Late delivery rate is 27.89%.
