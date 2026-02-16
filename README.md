@@ -24,7 +24,7 @@ Raw CSV → Python Cleaning & Feature Engineering → PostgreSQL → Power BI Da
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](images/Executive Overview.png)
+![Executive Overview](images/executive_overview.png)
 
 ### Delay Drivers
 ![Delay Drivers](images/delay_drivers_analysis.png)
