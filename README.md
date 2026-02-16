@@ -27,7 +27,7 @@ Raw CSV → Python Cleaning & Feature Engineering → PostgreSQL → Power BI Da
 ![Executive Overview](images/Executive Overview.png)
 
 ### Delay Drivers
-![Delay Drivers](images/Delay Drivers Analysis.png)
+![Delay Drivers](images/delay_drivers_analysis.png)
 
 ### Operations Performance
 ![Operations Performance](images/Operations Performance.png)
